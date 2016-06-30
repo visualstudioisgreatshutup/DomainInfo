@@ -1,0 +1,16 @@
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\DomainInfo.exe.config
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\DomainInfo.exe
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\DomainInfo.pdb
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\ARSoft.Tools.Net.dll
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\ARSoft.Tools.Net.xml
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\obj\Debug\DomainInfo.csprojResolveAssemblyReference.cache
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\obj\Debug\DomainInfo.Form1.resources
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\obj\Debug\DomainInfo.frmReport.resources
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\obj\Debug\DomainInfo.Properties.Resources.resources
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\obj\Debug\DomainInfo.csproj.GenerateResource.Cache
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\obj\Debug\DomainInfo.exe
+C:\Users\Mason.Harper\Documents\Visual Studio 2015\Projects\DomainInfo\DomainInfo\obj\Debug\DomainInfo.pdb
